@@ -2,4 +2,4 @@
 layout: null
 ---
 
-# ジョン（JOHN）
+# [ジョン（JOHN）](https://john.utmgs.com/)
