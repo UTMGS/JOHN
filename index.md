@@ -1,5 +1,6 @@
 ---
 title: ジョン（JOHN）の遊び方
+description: 戦略トランプボードゲーム「ジョン（JOHN）」の遊び方のページです。
 layout: default
 ---
 
