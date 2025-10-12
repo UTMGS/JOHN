@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ジョン（JOHN）の遊び方
 ---
 
