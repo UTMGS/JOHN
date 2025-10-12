@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: default
+title: ジョン（JOHN）の遊び方
 ---
 
 # ジョン（JOHN）の遊び方
