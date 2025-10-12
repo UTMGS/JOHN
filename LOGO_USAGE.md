@@ -1,7 +1,5 @@
 ---
-title: ロゴ使用ガイドライン
-description: 戦略トランプボードゲーム「ジョン（JOHN）」のロゴ使用ガイドラインのページです。
-layout: default
+published: false
 ---
 
 # ロゴ使用ガイドライン
