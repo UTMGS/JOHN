@@ -10,7 +10,8 @@
 
 ## ルール説明・ガイド
 
-詳細なルール説明や図解は [`index.md`](index.md) にまとめています。ウェブ上でも閲覧可能です：[ジョン（JOHN）の遊び方](https://john.utmgs.com)
+詳細なルール説明や図解は [`index.md`](index.md) にまとめています。  
+ウェブ上でも閲覧可能です：[遊び方](https://john.utmgs.com)
 
 ## ロゴや図について
 
