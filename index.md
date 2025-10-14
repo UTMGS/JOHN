@@ -8,8 +8,11 @@ layout: default
 
 ## 遊び方
 
-「ジョン（JOHN）」の遊び方は[こちら](/rule "「ジョン（JOHN）」の遊び方のページ")
+「ジョン（JOHN）」の遊び方のぺージは[こちら](/rule "「ジョン（JOHN）」の遊び方")
 
+## GitHub
+
+[https://github.com/UTMGS/JOHN/](https://github.com/UTMGS/JOHN/ "「ジョン（JOHN）」のGitHubリポジトリ")
 ## SNS
 
 ### X
