@@ -2,6 +2,8 @@
 title: TOP
 description: ジョン（JOHN）
 layout: default
+image: /assets/images/john_logo.png
+keywords: ["ボードゲーム", "UTMGS", "ジョン", "JOHN", "個人ゲーム開発"]
 ---
 
 # 戦略トランプボードゲーム「ジョン（JOHN）」
