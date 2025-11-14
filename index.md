@@ -7,10 +7,6 @@
   <meta name="keywords" content="ボードゲーム, トランプ, JOHN, ジョン, UTMGS" />
 
   <style>
-    img.logo {
-      width: 80px;
-      height: auto;
-    }
     nav a {
       margin-right: 12px;
       text-decoration: none;
@@ -25,11 +21,6 @@
   </style>
 </head>
 <body>
-
-<header>
-  <img src="assets/images/john_logo.png" alt="JOHN ロゴ" class="logo">
-  <h1>戦略トランプボードゲーム「ジョン（JOHN）」</h1>
-</header>
 
 <nav>
   <a href="/rule">遊び方</a>
