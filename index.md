@@ -8,14 +8,6 @@
   <meta name="keywords" content="ボードゲーム, トランプ, JOHN, ジョン, UTMGS" />
 
   <style>
-    body {
-      font-family: Arial, "Noto Sans JP", sans-serif;
-      margin: 20px;
-      line-height: 1.6;
-    }
-    header {
-      margin-bottom: 20px;
-    }
     img.logo {
       width: 80px;
       height: auto;
@@ -30,13 +22,6 @@
     }
     .section {
       margin-bottom: 24px;
-    }
-    footer {
-      margin-top: 32px;
-      border-top: 1px solid #ccc;
-      padding-top: 12px;
-      font-size: 14px;
-      color: #777;
     }
   </style>
 </head>
