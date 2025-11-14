@@ -8,10 +8,10 @@
     </a>
 
     <!-- 右：ナビ -->
-    <nav class="site-nav" style="margin-bottom:12px;">
+    <nav class="site-nav">
       {% for page in site.pages %}
         {% if page.title %}
-          <a class="page-link" href="{{ page.url | relative_url }}" style="margin-left:12px;">{{ page.title }}</a>
+          <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
         {% endif %}
       {% endfor %}
     </nav>
