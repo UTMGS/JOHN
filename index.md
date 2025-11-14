@@ -1,22 +1,91 @@
----
-title: TOP
-description: ジョン（JOHN）
-layout: default
-image: /assets/images/john_logo.png
-keywords: ["ボードゲーム", "UTMGS", "ジョン", "JOHN", "個人ゲーム開発"]
----
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ジョン（JOHN） - 戦略トランプボードゲーム</title>
+  <meta name="description" content="ジョン（JOHN）はトランプを使って遊ぶ戦略型ボードゲームです。" />
+  <meta name="keywords" content="ボードゲーム, トランプ, JOHN, ジョン, UTMGS" />
 
-# 戦略トランプボードゲーム「ジョン（JOHN）」
+  <style>
+    body {
+      font-family: Arial, "Noto Sans JP", sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    header {
+      margin-bottom: 20px;
+    }
+    img.logo {
+      width: 80px;
+      height: auto;
+    }
+    nav a {
+      margin-right: 12px;
+      text-decoration: none;
+      color: #0055aa;
+    }
+    h1, h2 {
+      margin-top: 24px;
+    }
+    .section {
+      margin-bottom: 24px;
+    }
+    footer {
+      margin-top: 32px;
+      border-top: 1px solid #ccc;
+      padding-top: 12px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
 
-## 遊び方
+<header>
+  <img src="assets/images/john_logo.png" alt="JOHN ロゴ" class="logo">
+  <h1>戦略トランプボードゲーム「ジョン（JOHN）」</h1>
+</header>
 
-遊び方は[こちら](/rule "「ジョン（JOHN）」の遊び方")
+<nav>
+  <a href="/rule">遊び方</a>
+  <a href="https://github.com/UTMGS/JOHN/" target="_blank">GitHub</a>
+  <a href="https://x.com/UTMGS_JOHN" target="_blank">X（旧 Twitter）</a>
+</nav>
 
-## GitHub
+<div class="section">
+  <h2>ゲームについて</h2>
+  <p>
+    「ジョン（JOHN）」は、トランプを使って楽しむ戦略型ボードゲームです。  
+    シンプルなルールながら、カードの読み合いや駆け引きが楽しめる設計になっています。
+  </p>
+</div>
 
-[https://github.com/UTMGS/JOHN/](https://github.com/UTMGS/JOHN/ "「ジョン（JOHN）」のGitHubリポジトリ")
-## SNS
+<div class="section">
+  <h2>遊び方</h2>
+  <p>
+    ゲームルールや詳細な手順は以下のページで確認できます。
+  </p>
+  <p><a href="/rule">▶ 「ジョン（JOHN）」の遊び方を見る</a></p>
+</div>
 
-### X
+<div class="section">
+  <h2>GitHub</h2>
+  <p>
+    プロジェクトの資料、ライセンス、更新情報は GitHub で公開しています。
+  </p>
+  <p><a href="https://github.com/UTMGS/JOHN/" target="_blank">▶ GitHub リポジトリへ移動</a></p>
+</div>
 
-- [@UTMGS_JOHN](https://x.com/UTMGS_JOHN)
+<div class="section">
+  <h2>SNS</h2>
+  <p>最新情報は X（旧 Twitter）で配信しています。</p>
+  <p><a href="https://x.com/UTMGS_JOHN" target="_blank">@UTMGS_JOHN</a></p>
+</div>
+
+<footer>
+  © UTMGS — ジョン（JOHN）  
+</footer>
+
+</body>
+</html>
