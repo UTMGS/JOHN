@@ -1,3 +1,9 @@
+---
+title: 遊び方
+description: 戦略トランプボードゲーム「ジョン（JOHN）」の遊び方のページ
+layout: default
+---
+
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
@@ -6,18 +12,10 @@
   <meta name="description" content="ジョン（JOHN）はトランプを使って遊ぶ戦略型ボードゲームです。" />
   <meta name="keywords" content="ボードゲーム, トランプ, JOHN, ジョン, UTMGS" />
 
-  <style>
-    nav a {
-      margin-right: 12px;
-      text-decoration: none;
-      color: #0055aa;
-    }
-    .section {
-      margin-bottom: 24px;
-    }
-  </style>
 </head>
 <body>
+
+<h1>ジョン（JOHN） - 戦略トランプボードゲーム</h1>
 
 <nav>
   <a href="/rule">遊び方</a>
@@ -25,7 +23,6 @@
   <a href="https://x.com/UTMGS_JOHN" target="_blank">X（旧 Twitter）</a>
 </nav>
 
-<h1>ジョン（JOHN） - 戦略トランプボードゲーム</h1>
 <div class="section">
   <h2>ゲームについて</h2>
   <p>
