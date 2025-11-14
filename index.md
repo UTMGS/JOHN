@@ -66,10 +66,5 @@
   <p>最新情報は X（旧 Twitter）で配信しています。</p>
   <p><a href="https://x.com/UTMGS_JOHN" target="_blank">@UTMGS_JOHN</a></p>
 </div>
-
-<footer>
-  © UTMGS — ジョン（JOHN）  
-</footer>
-
 </body>
 </html>
