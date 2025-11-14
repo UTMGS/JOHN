@@ -12,9 +12,6 @@
       text-decoration: none;
       color: #0055aa;
     }
-    h1, h2 {
-      margin-top: 24px;
-    }
   </style>
 </head>
 <body>
