@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="wrapper" style="padding: 24px 0; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap;">
+
+    <!-- 左：ロゴ + タイトル -->
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="display:flex; align-items:center; margin-bottom:12px;">
+      <img src="{{ "/assets/images/john_logo.png" | relative_url }}" alt="logo" style="height:32px; margin-right:8px;">
+      {{ site.title | escape }}
+    </a>
+
+    <!-- 右：ナビ -->
+    <nav class="site-nav" style="margin-bottom:12px;">
+      {% for page in site.pages %}
+        {% if page.title %}
+          <a class="page-link" href="{{ page.url | relative_url }}" style="margin-left:12px;">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+  </div>
+
+  <div class="wrapper" style="text-align:center; padding-bottom:20px; font-size:14px; color:#777;">
+    © {{ site.time | date: '%Y' }} {{ site.title }} All Rights Reserved.
+  </div>
+</footer>
