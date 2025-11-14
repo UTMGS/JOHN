@@ -6,10 +6,21 @@ layout: default
 
 <html lang="ja">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="keywords" content="ボードゲーム, トランプ, JOHN, ジョン, UTMGS" />
 
+  <style>
+    nav a {
+      margin-right: 12px;
+      text-decoration: none;
+      color: #0055aa;
+    }
+    h1, h2 {
+      margin-top: 24px;
+    }
+    .section {
+      margin-bottom: 24px;
+    }
+  </style>
 </head>
 <body>
 
