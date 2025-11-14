@@ -25,6 +25,7 @@
   <a href="https://x.com/UTMGS_JOHN" target="_blank">X（旧 Twitter）</a>
 </nav>
 
+<h1>ジョン（JOHN） - 戦略トランプボードゲーム</h1>
 <div class="section">
   <h2>ゲームについて</h2>
   <p>
