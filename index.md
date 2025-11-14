@@ -1,11 +1,11 @@
 ---
-title: ジョン（JOHN） - 戦略トランプボードゲーム
 description: ジョン（JOHN）はトランプを使って遊ぶ戦略型ボードゲームです。
 layout: default
 ---
 
 <html lang="ja">
 <head>
+<title>ジョン（JOHN） - 戦略トランプボードゲーム</title>
   <meta name="keywords" content="ボードゲーム, トランプ, JOHN, ジョン, UTMGS" />
 
   <style>
